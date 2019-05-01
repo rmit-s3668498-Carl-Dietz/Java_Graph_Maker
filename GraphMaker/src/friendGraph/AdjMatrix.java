@@ -18,7 +18,7 @@ public class AdjMatrix implements FriendshipGraph
 	
 	
 	/**
-	 * Contructs empty graph.
+	 * Constructs empty graph.
 	 */
     public AdjMatrix() 
     {
