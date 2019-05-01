@@ -16,7 +16,7 @@ public class IndMatrix implements FriendshipGraph
 	private Map <Edge<String>, Integer> edgeList;
 	
 	/**
-	 * Contructs empty graph.
+	 * Constructs empty graph.
 	 */
     public IndMatrix() 
     {
